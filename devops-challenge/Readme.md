@@ -25,7 +25,7 @@ Evaluation Criterias:
 - organization of the code.
 
 Options/hints:
-The target Platform to run the nodes on should either be libvirtd or AWS. For a free setup just install any linux machine or VM and install+run libvirtd. 
+The target Platform to run the nodes on should either be libvirtd, proxmox or AWS. For a free setup just install any linux machine or VM and install+run libvirtd. 
 
 Bonus Points:
 - ingress nginx works
